@@ -16,7 +16,7 @@ Passionate about building modern web applications and solving real-world problem
 
 - 🎓 Computer Engineering Student at CIT-U
 - 🌍 Based in Cebu City, Philippines
-- 💻 Full-Stack Web Developer
+- 💻 Front End Web Developer
 - 🌱 Currently learning advanced Next.js, TypeScript, software architecture, and system design
 - 🤝 Open to internships, collaborative projects, and open-source contributions
 - ⚡ Passionate about creating practical software and hardware solutions that solve real-world problems
@@ -128,7 +128,7 @@ Designed and implemented a parking occupancy detection system using infrared sen
 
 ## 📫 Connect With Me
 
-**Email:** christianpaulamorin28@gmail.com
+[![Gmail Badge](https://shields.io)](mailto:christianpaulamorin28@gmail.com
 
 ---
 
