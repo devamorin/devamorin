@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Christian Paul A. Amorin
 
-### Computer Engineering Student | Aspiring Full-Stack Developer
+### Computer Engineering Student | Full-Stack Developer
 
 Passionate about building modern web applications and solving real-world problems through technology. I enjoy creating scalable, user-friendly, and efficient software solutions while continuously learning new technologies and development practices. My experience spans both software and hardware projects, including web applications, e-commerce platforms, embedded systems, and Arduino-based solutions.
 
@@ -133,6 +133,8 @@ Designed and implemented a parking occupancy detection system using infrared sen
 <img src="https://img.shields.io/badge/Gmail-christianpaulamorin28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+**Email:** christianpaulamorin28@gmail.com
 
 ---
 
