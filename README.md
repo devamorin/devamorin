@@ -128,12 +128,6 @@ Designed and implemented a parking occupancy detection system using infrared sen
 
 ## 📫 Connect With Me
 
-<p>
-<a href="mailto:christianpaulamorin28@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-christianpaulamorin28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
 **Email:** christianpaulamorin28@gmail.com
 
 ---
